@@ -1,0 +1,62 @@
+.head{
+    font-weight: 700;
+    font-size: 90px;
+    
+}
+.just{
+    text-align: justify;
+    
+}
+.spanny{
+    font-weight: 700;
+    background-color: brown;
+    color: aliceblue;
+    padding: 3px;
+}
+.img1{
+    margin: 15px 10px;
+}
+
+.lin{
+    border-bottom: 2px solid black;
+}
+.cen{
+    font-size: x-large;
+    color: brown;
+    font-weight: 600;
+    margin: 7px ;
+}
+.content{
+    text-align: justify;
+}
+.content-2{
+    text-align: justify;
+}
+.heading1{
+    text-align: justify;
+    margin: 10px 0px;
+}
+.hello{
+    text-align: justify;
+}
+.imges{
+    margin:5px
+}
+.linbot{
+    border-bottom: 2px solid black;
+}
+.upper{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    text-align: center;
+    margin: 0px;
+}
+.box-3{
+    display: flex;
+}
+.parl{
+    text-align: right;
+}
+.upper{
+    margin: 5px;
+}
